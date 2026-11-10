@@ -82,6 +82,10 @@ The R² Score helps measure how well the model explains the variation in house p
 
 The project includes an Actual vs Predicted House Prices scatter plot to compare the model's predictions with actual house prices.
 
+<img width="702" height="547" alt="image" src="https://github.com/user-attachments/assets/a166569f-5d94-4046-90d5-d2b60982e290" />
+
+
+
 ## 🚀 How to Run the Project
 
 1. Clone this repository:
